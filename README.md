@@ -8,6 +8,8 @@ Android Test for Webnatics.
 
 > App Architecture: MVP (Model-View-Presenter)
 
+> Retrofit for web services communication
+
 > Stetho enabled for REST web services debugging
 
 > MPAndroidChart for the Barchart - Apache license | credits: https://github.com/PhilJay/MPAndroidChart
