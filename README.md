@@ -11,3 +11,5 @@ Android Test for Webnatics.
 > Stetho enabled for REST web services debugging
 
 > MPAndroidChart for the Barchart - Apache license | credits: https://github.com/PhilJay/MPAndroidChart
+
+> Other libs/tools in-use: Lombok, Butterknife
